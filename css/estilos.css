@@ -1,0 +1,18 @@
+details {
+    background-color: crimson;
+}
+
+.parraforesaltado {
+    font-size: 24px;
+    text-align: center;
+}
+
+.parraforesaltado:hover {
+    padding: 10px;
+}
+
+p:hover {
+    text-decoration: underline;
+    transform: scale(103%);
+}
+
